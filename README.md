@@ -4,9 +4,9 @@ implicit
 Computational Physics; Solving Differential Equations using implicit methods for stability
 
 4 methods used to solve problems:
-Forward Euler
-Midpoint
-Backward Euler
+Forward Euler,
+Midpoint,
+Backward Euler,
 Crank-Nicholson
 
 Two problems solved:
